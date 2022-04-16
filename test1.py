@@ -1,5 +1,4 @@
 a = "siva"
-
-b = "suriyan"
-print(a%b)
+b = "vijaya"
+print(a**b)
 
