@@ -1,3 +1,3 @@
 a = "siva"
-b = "kumar"
-print(a+b)
+b = "suriyan"
+print(a%b)
